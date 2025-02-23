@@ -1,0 +1,1 @@
+This is a To-do List in which we can upload our tasks and checkmark them if they are completed and removed them also, all the tasks will saved even if close the proeject and re-open it, the tasks won't be vanished until we remove them
